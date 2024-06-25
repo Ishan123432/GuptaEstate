@@ -1,0 +1,7 @@
+DOWNLOAD ALL DEPENDENCIES
+GO TO API FOLDER
+nodemon app.js
+GO TO CLIENT FOLDER
+npm run dev
+GO TO SOCKET FOLDER
+nodemon app.js 
