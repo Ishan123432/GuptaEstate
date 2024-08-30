@@ -13,10 +13,8 @@ function HomePage() {
         <div className="wrapper">
           <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+          Buy, sell, and rent smarter with PrimeListings. Partner with a local real estate agent to find the home or apartment that’s right for you.
+          create an account and start posting your property for free.
           </p>
           <SearchBar />
           <div className="boxes">
